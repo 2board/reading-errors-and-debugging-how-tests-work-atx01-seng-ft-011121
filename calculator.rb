@@ -1,1 +1,1 @@
-first_number = .to_i"Hello world!"
+first_number = "Hello world!"
